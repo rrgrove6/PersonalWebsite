@@ -107,21 +107,16 @@ div.sidebar_links ul
 div.sidebar_links li {
 	list-style-type: none;
 	display: block;
-	padding-top: 3px;
+	padding-top: 4px;
 	padding-right: 5px;
-	padding-bottom: 3px;
+	padding-bottom: 4px;
 	padding-left: 5px;
-	border: 1px solid  #000000;
+	border: 1px solid  #FFFFFF;
 	margin-top: 0px;
 	margin-right: 0px;
 	margin-bottom: 3px;
 	margin-left: 0px;
-
-        <!--  This is the picture that is inside the sidebar links which is
-              currently just an orange box).						  
-	-->
-
-	background-image: url(./images/orange_box.jpg);
+	 
 	background-position: 99% center;
 	background-repeat: no-repeat;
 }
@@ -129,13 +124,13 @@ div.sidebar_links li {
 div.sidebar_links li a, div.sidebar_links li a:link, div.sidebar_links li a:active, div.sidebar_links li a:visited {
 	font-family: Geneva, Arial, Helvetica, sans-serif;
 	font-weight: normal;
-	color: #FFFFFF;
+	color: #F66733;
 }
 
 div.sidebar_links li a:hover {
 	font-family: Geneva, Arial, Helvetica, sans-serif;
 	font-weight: bold;
-	color:  #522D80;
+	color: #FFEBCD;
 }
 
 div.topbar_links ulTop
@@ -175,7 +170,7 @@ div.topbar_links liTop a, div.topbar_links liTop a:link, div.topbar_links liTop 
 div.topbar_links liTop a:hover {
 	font-family: Geneva, Arial, Helvetica, sans-serif;
 	font-weight: bold;
-	color: #F66733;
+	color: #FFEBCD;
 }
 
 .page_buttons {
