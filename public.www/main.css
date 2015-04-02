@@ -116,7 +116,12 @@ div.sidebar_links li {
 	margin-right: 0px;
 	margin-bottom: 3px;
 	margin-left: 0px;
-	background-image: url(./images/greenovalbuttun.jpg);
+
+        <!--  This is the picture that is inside the sidebar links which is
+              currently just an orange box).						  
+	-->
+
+	background-image: url(./images/orange_box.jpg);
 	background-position: 99% center;
 	background-repeat: no-repeat;
 }
@@ -280,7 +285,7 @@ div.warning_container div.inline_warning_bkg div.inline_warning{
 	z-index:1000;
 	top: 0px;
 	left: 0px;
-	background-image: url(./images/greenovalbuttun.jpg);
+	background-image: url(./images/orange_box.jpg);
 }
 
 
