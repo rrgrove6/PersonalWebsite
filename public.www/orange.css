@@ -111,12 +111,12 @@ div.sidebar_links li {
 	padding-right: 5px;
 	padding-bottom: 4px;
 	padding-left: 5px;
-	border: 1px solid  #FFFFFF;
+	border: 0px solid  #FFFFFF;
 	margin-top: 0px;
 	margin-right: 0px;
 	margin-bottom: 3px;
 	margin-left: 0px;
-	 
+        background-image: url(./images/gradient.jpeg);
 	background-position: 99% center;
 	background-repeat: no-repeat;
 }
@@ -124,13 +124,13 @@ div.sidebar_links li {
 div.sidebar_links li a, div.sidebar_links li a:link, div.sidebar_links li a:active, div.sidebar_links li a:visited {
 	font-family: Geneva, Arial, Helvetica, sans-serif;
 	font-weight: normal;
-	color: #F66733;
+	color: #FFFFFF;
 }
 
 div.sidebar_links li a:hover {
 	font-family: Geneva, Arial, Helvetica, sans-serif;
 	font-weight: bold;
-	color: #FFEBCD;
+	color: #522D80;
 }
 
 div.topbar_links ulTop
