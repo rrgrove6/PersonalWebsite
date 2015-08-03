@@ -18,11 +18,11 @@ a:visited {
 }
 a:hover {
 	text-decoration: none;
-	color: #FFEBCD;
+	color: #8D2347;
 }
 a:active {
 	text-decoration: none;
-	color: #FFEBCD;
+	color: #8D2347;
 }
 
 .Font_Verdana {
@@ -116,8 +116,8 @@ div.sidebar_links li {
 	margin-right: 0px;
 	margin-bottom: 3px;
 	margin-left: 0px;
-        background-image: url(./images/gradient.jpeg);
-	background-position: 99% center;
+        background-image: url(./images/banner-fade.png);
+	background-position: 37% center;
 	background-repeat: no-repeat;
 }
 
@@ -130,7 +130,7 @@ div.sidebar_links li a, div.sidebar_links li a:link, div.sidebar_links li a:acti
 div.sidebar_links li a:hover {
 	font-family: Geneva, Arial, Helvetica, sans-serif;
 	font-weight: bold;
-	color: #522D80;
+	color: #8D2347;
 }
 
 div.topbar_links ulTop
